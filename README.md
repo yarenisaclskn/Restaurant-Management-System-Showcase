@@ -1,4 +1,3 @@
-# Restaurant-Management-System-Showcase
 # Full-Stack Restaurant Management System (CMS) - Showcase
 
 *Note: This repository serves as a technical showcase. Because this system is currently live in production and actively used by a commercial client (Göreme Women's Cooperative), the source code is kept **PRIVATE** for security and confidentiality reasons.*
@@ -21,8 +20,6 @@ The backend was built to handle complex relational data, media uploads, and stri
     *   Automated QR Code generation for physical tables.
 
 ## 📸 System Previews
-
-*(Aşağıdaki linkleri kendi yüklediğin ekran görüntülerinin adlarıyla değiştir)*
 
 ### Admin Dashboard (CMS)
 <img width="1912" height="850" alt="image" src="https://github.com/user-attachments/assets/2191130d-f7a0-4373-868a-393b32825b98" />
