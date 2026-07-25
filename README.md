@@ -29,10 +29,12 @@ The backend was built to handle complex relational data, media uploads, and stri
 
 
 ### Menu Management System
-![Menu Management](./menu-management.png)
+<img width="1858" height="541" alt="image" src="https://github.com/user-attachments/assets/f8bfd618-3334-4028-87be-10c7d7f77537" />
+
 
 ### Client-Facing Web Interface
-![Web Interface](./web-interface.png)
+<img width="1865" height="846" alt="image" src="https://github.com/user-attachments/assets/6e1e08c1-3b4f-4960-9ec6-81594a896ba4" />
+
 
 ---
 *Designed and Developed by Yaren Nisa Çalışkan*
